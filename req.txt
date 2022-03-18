@@ -1,0 +1,5 @@
+easyocr
+pycountry
+opencv-python
+streamlit>=0.73.0
+

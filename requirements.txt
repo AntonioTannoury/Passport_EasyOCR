@@ -1,5 +1,4 @@
 easyocr
 pycountry
 opencv-python-headless==4.1.2.30
-opencv-python
 streamlit>=0.73.0
